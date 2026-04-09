@@ -1,1 +1,2 @@
-# oct-scan-eye
+# eye
+an eye disease detection system
